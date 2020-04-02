@@ -1,0 +1,33 @@
+,Gene,Strain,Size in bp,Direction,Start position,Stop position,Primer matches
+15,23S,"NC_002946.2:filter(unmasked) Neisseria gonorrhoeae FA 1090 chromosome, complete genome",714,revcomp,1873304,1873994,24/24 24/24
+2,23S,"NC_002946.2:filter(unmasked) Neisseria gonorrhoeae FA 1090 chromosome, complete genome",717,revcomp,1116473,1117166,24/24 24/24
+4,23S,"NC_002946.2:filter(unmasked) Neisseria gonorrhoeae FA 1090 chromosome, complete genome",714,revcomp,1258576,1259266,24/24 24/24
+29,23S,"NC_011035.1:filter(unmasked) Neisseria gonorrhoeae NCCP11945, complete genome",714,forward,1958438,1959128,24/24 24/24
+19,23S,"NC_011035.1:filter(unmasked) Neisseria gonorrhoeae NCCP11945, complete genome",714,revcomp,1263634,1264324,24/24 24/24
+12,23S,"NC_002946.2:filter(unmasked) Neisseria gonorrhoeae FA 1090 chromosome, complete genome",714,revcomp,1650152,1650842,24/24 24/24
+28,23S,"NC_011035.1:filter(unmasked) Neisseria gonorrhoeae NCCP11945, complete genome",714,revcomp,1725021,1725711,24/24 24/24
+27,23S,"NC_011035.1:filter(unmasked) Neisseria gonorrhoeae NCCP11945, complete genome",714,revcomp,1621122,1621812,24/24 24/24
+1,gyrA,"NC_002946.2:filter(unmasked) Neisseria gonorrhoeae FA 1090 chromosome, complete genome",351,revcomp,620706,621039,20/20 18/18
+18,gyrA,"NC_011035.1:filter(unmasked) Neisseria gonorrhoeae NCCP11945, complete genome",351,forward,1051527,1051858,18/18 20/20
+5,mtrR_1,"NC_002946.2:filter(unmasked) Neisseria gonorrhoeae FA 1090 chromosome, complete genome",473,forward,1327640,1328093,20/20 20/20
+20,mtrR_1,"NC_011035.1:filter(unmasked) Neisseria gonorrhoeae NCCP11945, complete genome",472,forward,1332710,1333162,20/20 20/20
+6,mtrR_2,"NC_002946.2:filter(unmasked) Neisseria gonorrhoeae FA 1090 chromosome, complete genome",427,forward,1328055,1328462,18/18 20/20
+21,mtrR_2,"NC_011035.1:filter(unmasked) Neisseria gonorrhoeae NCCP11945, complete genome",427,forward,1333124,1333531,18/18 20/20
+3,parC,"NC_002946.2:filter(unmasked) Neisseria gonorrhoeae FA 1090 chromosome, complete genome",446,forward,1210550,1210978,18/18 18/18
+17,parC,"NC_011035.1:filter(unmasked) Neisseria gonorrhoeae NCCP11945, complete genome",446,revcomp,195493,195921,18/18 18/18
+11,penA_1,"NC_002946.2:filter(unmasked) Neisseria gonorrhoeae FA 1090 chromosome, complete genome",471,revcomp,1516758,1517209,20/20 20/20
+26,penA_1,"NC_011035.1:filter(unmasked) Neisseria gonorrhoeae NCCP11945, complete genome",471,revcomp,1525742,1526193,20/20 20/20
+10,penA_2,"NC_002946.2:filter(unmasked) Neisseria gonorrhoeae FA 1090 chromosome, complete genome",450,revcomp,1516356,1516787,20/20 19/19
+25,penA_2,"NC_011035.1:filter(unmasked) Neisseria gonorrhoeae NCCP11945, complete genome",450,revcomp,1525340,1525771,20/20 19/19
+24,penA_3,"NC_011035.1:filter(unmasked) Neisseria gonorrhoeae NCCP11945, complete genome",453,revcomp,1524976,1525408,20/20 21/21
+9,penA_3,"NC_002946.2:filter(unmasked) Neisseria gonorrhoeae FA 1090 chromosome, complete genome",453,revcomp,1515992,1516424,20/20 21/21
+8,penA_4,"NC_002946.2:filter(unmasked) Neisseria gonorrhoeae FA 1090 chromosome, complete genome",487,revcomp,1515401,1515868,22/22 20/20
+23,penA_4,"NC_011035.1:filter(unmasked) Neisseria gonorrhoeae NCCP11945, complete genome",490,revcomp,1524382,1524852,22/22 20/20
+0,ponA,"NC_002946.2:filter(unmasked) Neisseria gonorrhoeae FA 1090 chromosome, complete genome",494,forward,109677,110151,20/20 20/20
+16,ponA,"NC_011035.1:filter(unmasked) Neisseria gonorrhoeae NCCP11945, complete genome",494,forward,109371,109845,20/20 20/20
+13,porB,"NC_002946.2:filter(unmasked) Neisseria gonorrhoeae FA 1090 chromosome, complete genome",280,forward,1788887,1789147,20/20 19/20
+31,porB,"NC_011035.1:filter(unmasked) Neisseria gonorrhoeae NCCP11945, complete genome",280,revcomp,2049927,2050187,19/20 20/20
+30,rplF,"NC_011035.1:filter(unmasked) Neisseria gonorrhoeae NCCP11945, complete genome",492,forward,2039208,2039677,20/20 23/23
+14,rplF,"NC_002946.2:filter(unmasked) Neisseria gonorrhoeae FA 1090 chromosome, complete genome",492,revcomp,1799280,1799752,23/23 20/20
+7,tbpB,"NC_002946.2:filter(unmasked) Neisseria gonorrhoeae FA 1090 chromosome, complete genome",583,revcomp,1463544,1464106,21/21 21/21
+22,tbpB,"NC_011035.1:filter(unmasked) Neisseria gonorrhoeae NCCP11945, complete genome",577,revcomp,1471076,1471632,21/21 21/21
